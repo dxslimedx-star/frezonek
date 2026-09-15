@@ -1,0 +1,15 @@
+C:\Maciej Kubiec 3B\frezonek\ConsoleApp\ConsoleApp\bin\Debug\net10.0\ConsoleApp.exe
+C:\Maciej Kubiec 3B\frezonek\ConsoleApp\ConsoleApp\bin\Debug\net10.0\ConsoleApp.deps.json
+C:\Maciej Kubiec 3B\frezonek\ConsoleApp\ConsoleApp\bin\Debug\net10.0\ConsoleApp.runtimeconfig.json
+C:\Maciej Kubiec 3B\frezonek\ConsoleApp\ConsoleApp\bin\Debug\net10.0\ConsoleApp.dll
+C:\Maciej Kubiec 3B\frezonek\ConsoleApp\ConsoleApp\bin\Debug\net10.0\ConsoleApp.pdb
+C:\Maciej Kubiec 3B\frezonek\ConsoleApp\ConsoleApp\obj\Debug\net10.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maciej Kubiec 3B\frezonek\ConsoleApp\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Maciej Kubiec 3B\frezonek\ConsoleApp\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfo.cs
+C:\Maciej Kubiec 3B\frezonek\ConsoleApp\ConsoleApp\obj\Debug\net10.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Maciej Kubiec 3B\frezonek\ConsoleApp\ConsoleApp\obj\Debug\net10.0\ConsoleApp.dll
+C:\Maciej Kubiec 3B\frezonek\ConsoleApp\ConsoleApp\obj\Debug\net10.0\refint\ConsoleApp.dll
+C:\Maciej Kubiec 3B\frezonek\ConsoleApp\ConsoleApp\obj\Debug\net10.0\ConsoleApp.pdb
+C:\Maciej Kubiec 3B\frezonek\ConsoleApp\ConsoleApp\obj\Debug\net10.0\ConsoleApp.genruntimeconfig.cache
+C:\Maciej Kubiec 3B\frezonek\ConsoleApp\ConsoleApp\obj\Debug\net10.0\ref\ConsoleApp.dll
+C:\Maciej Kubiec 3B\frezonek\ConsoleApp\ConsoleApp\obj\Debug\net10.0\ConsoleApp.csproj.Up2Date
